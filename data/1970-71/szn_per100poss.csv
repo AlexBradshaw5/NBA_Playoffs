@@ -1,0 +1,20 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Unnamed: 11_level_0,Unnamed: 12_level_0,Unnamed: 13_level_0,Unnamed: 14_level_0,Unnamed: 15_level_0,Unnamed: 16_level_0,Unnamed: 17_level_0,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,Unnamed: 22_level_0,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,Unnamed: 27_level_0,Unnamed: 28_level_0,Unnamed: 29_level_0,Unnamed: 30_level_0
+,Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,Unnamed: 17_level_1,eFG%,TOV%,ORB%,FT/FGA,Unnamed: 22_level_1,eFG%,TOV%,DRB%,FT/FGA,Unnamed: 27_level_1,Arena,Attend.,Attend./G
+0,1.0,Milwaukee Bucks*,26.1,66.0,16.0,67,15,12.26,-0.34,11.92,103.9,93.1,10.8,113.4,0.305,,0.549,,0.509,,,0.226,,0.424,,,0.21,,Milwaukee Arena,,
+1,2.0,Chicago Bulls*,27.4,51.0,31.0,54,28,5.24,0.23,5.47,100.5,95.7,4.8,109.7,0.355,,0.512,,0.452,,,0.281,,0.453,,,0.215,,Chicago Stadium,,
+2,3.0,New York Knicks*,28.0,52.0,30.0,54,28,5.02,0.03,5.05,97.8,93.3,4.5,112.2,0.294,,0.495,,0.45,,,0.218,,0.431,,,0.249,,Madison Square Garden (IV),,
+3,4.0,Los Angeles Lakers*,28.2,48.0,34.0,49,33,3.07,0.19,3.27,98.8,96.1,2.7,115.7,0.346,,0.52,,0.476,,,0.246,,0.446,,,0.184,,The Forum,566108.0,
+4,5.0,Boston Celtics,26.2,44.0,38.0,46,36,2.07,0.23,2.3,97.0,95.3,1.7,120.2,0.307,,0.491,,0.442,,,0.232,,0.44,,,0.27,,Boston Garden,313768.0,
+5,6.0,Phoenix Suns,26.0,48.0,34.0,46,36,1.9,0.43,2.33,98.2,96.6,1.6,115.3,0.384,,0.498,,0.437,,,0.29,,0.448,,,0.277,,Arizona Veterans Memorial Coliseum,,
+6,7.0,Philadelphia 76ers*,29.0,47.0,35.0,45,37,1.55,0.26,1.81,98.8,97.5,1.3,115.7,0.37,,0.504,,0.45,,,0.274,,0.45,,,0.29,,The Spectrum,,
+7,8.0,Baltimore Bullets*,27.5,42.0,40.0,42,40,0.59,0.33,0.91,96.2,95.7,0.5,116.5,0.3,,0.491,,0.442,,,0.226,,0.446,,,0.236,,Baltimore Civic Center,,
+8,9.0,San Diego Rockets,25.0,40.0,42.0,40,42,-0.24,0.45,0.21,95.2,95.5,-0.3,118.5,0.347,,0.478,,0.421,,,0.26,,0.449,,,0.25,,San Diego Sports Arena,,
+9,10.0,Detroit Pistons,25.8,45.0,37.0,39,43,-0.74,0.41,-0.33,98.1,98.7,-0.6,111.3,0.363,,0.504,,0.449,,,0.271,,0.457,,,0.264,,Cobo Arena,,104.0
+10,11.0,San Francisco Warriors*,27.4,41.0,41.0,37,45,-1.44,0.61,-0.83,94.2,95.5,-1.3,113.5,0.32,,0.499,,0.448,,,0.243,,0.428,,,0.207,,Oakland-Alameda County Coliseum Arena,,
+11,12.0,Atlanta Hawks*,27.6,36.0,46.0,37,45,-1.79,0.49,-1.3,96.9,98.4,-1.5,117.2,0.382,,0.514,,0.465,,,0.273,,0.446,,,0.222,,Alexander Memorial Coliseum,,
+12,13.0,Seattle SuperSonics,27.1,38.0,44.0,36,46,-1.98,0.45,-1.53,98.4,100.1,-1.7,116.5,0.347,,0.509,,0.456,,,0.262,,0.469,,,0.245,,Seattle Center Coliseum,,
+13,14.0,Cincinnati Royals,25.7,33.0,49.0,33,49,-3.21,0.25,-2.96,97.1,99.8,-2.7,118.5,0.313,,0.499,,0.454,,,0.227,,0.467,,,0.269,,Cincinnati Gardens,,
+14,15.0,Portland Trail Blazers,25.4,29.0,53.0,30,52,-4.51,-1.69,-6.2,95.4,99.1,-3.7,120.6,0.312,,0.486,,0.435,,,0.237,,0.468,,,0.244,,Memorial Coliseum,,
+15,16.0,Buffalo Braves,24.9,22.0,60.0,25,57,-6.62,-1.39,-8.02,93.7,99.6,-5.9,111.9,0.319,,0.483,,0.436,,,0.23,,0.455,,,0.29,,Buffalo Memorial Auditorium,,
+16,17.0,Cleveland Cavaliers,24.3,15.0,67.0,16,66,-11.17,-0.87,-12.04,92.3,102.4,-10.1,110.6,0.306,,0.474,,0.424,,,0.228,,0.465,,,0.312,,Cleveland Arena,,
+17,,League Average,26.6,,,41,41,0.0,0.0,0.0,97.2,97.2,,115.1,0.333,,0.5,,0.449,,,0.248,,0.449,,,0.248,,,439938.0,1781.0

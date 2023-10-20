@@ -1,0 +1,15 @@
+,Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Unnamed: 8_level_0,Unnamed: 9_level_0,Unnamed: 10_level_0,Unnamed: 11_level_0,Unnamed: 12_level_0,Unnamed: 13_level_0,Unnamed: 14_level_0,Unnamed: 15_level_0,Unnamed: 16_level_0,Unnamed: 17_level_0,Offense Four Factors,Offense Four Factors,Offense Four Factors,Offense Four Factors,Unnamed: 22_level_0,Defense Four Factors,Defense Four Factors,Defense Four Factors,Defense Four Factors,Unnamed: 27_level_0,Unnamed: 28_level_0,Unnamed: 29_level_0,Unnamed: 30_level_0
+,Rk,Team,Age,W,L,PW,PL,MOV,SOS,SRS,ORtg,DRtg,NRtg,Pace,FTr,3PAr,TS%,Unnamed: 17_level_1,eFG%,TOV%,ORB%,FT/FGA,Unnamed: 22_level_1,eFG%,TOV%,DRB%,FT/FGA,Unnamed: 27_level_1,Arena,Attend.,Attend./G
+0,1.0,Philadelphia 76ers*,27.6,62.0,20.0,60,22,8.6,-0.64,7.96,98.1,91.2,6.9,124.3,0.397,,0.509,,0.471,,,0.252,,,,,,,The Spectrum,,
+1,2.0,Los Angeles Lakers*,27.8,52.0,30.0,54,28,5.61,-0.62,4.99,101.7,97.0,4.7,118.1,0.391,,0.528,,0.477,,,0.284,,,,,,,The Forum,421326.0,
+2,3.0,Boston Celtics*,29.5,54.0,28.0,51,31,4.11,-0.24,3.87,95.7,92.4,3.3,121.1,0.356,,0.492,,0.44,,,0.257,,,,,,,Boston Garden,320788.0,
+3,4.0,St. Louis Hawks*,26.9,56.0,26.0,48,34,2.73,-0.36,2.37,98.4,96.0,2.4,113.7,0.401,,0.507,,0.451,,,0.291,,,,,,,Kiel Auditorium,,
+4,5.0,New York Knicks*,25.6,43.0,39.0,46,36,1.82,-0.04,1.78,98.1,96.5,1.6,117.2,0.377,,0.506,,0.456,,,0.268,,,,,,,Madison Square Garden (III),,
+5,6.0,Baltimore Bullets,26.7,36.0,46.0,40,42,-0.39,0.16,-0.23,96.2,96.6,-0.4,121.5,0.355,,0.494,,0.438,,,0.266,,,,,,,Baltimore Civic Center,,
+6,7.0,San Francisco Warriors*,26.2,43.0,39.0,40,42,-0.6,-0.07,-0.66,94.1,94.6,-0.5,123.6,0.367,,0.481,,0.423,,,0.272,,,,,,,Cow Palace,,
+7,8.0,Cincinnati Royals,28.0,39.0,43.0,39,43,-0.84,0.2,-0.64,101.1,101.8,-0.7,114.6,0.368,,0.523,,0.468,,,0.28,,,,,,,Cincinnati Gardens,,
+8,9.0,Detroit Pistons*,26.0,40.0,42.0,36,46,-2.0,0.3,-1.7,96.7,98.4,-1.7,122.0,0.373,,0.498,,0.448,,,0.264,,,,,,,Cobo Arena,,
+9,10.0,Chicago Bulls*,25.3,29.0,53.0,31,51,-4.0,0.24,-3.76,94.1,97.5,-3.4,115.7,0.334,,0.481,,0.429,,,0.246,,,,,,,Chicago Stadium,,
+10,11.0,Seattle SuperSonics,25.1,23.0,59.0,26,56,-6.45,0.46,-6.0,95.4,100.6,-5.2,123.9,0.354,,0.49,,0.439,,,0.255,,,,,,,Seattle Center Coliseum,,
+11,12.0,San Diego Rockets,26.4,15.0,67.0,22,60,-8.59,0.65,-7.94,91.8,98.8,-7.0,121.9,0.343,,0.468,,0.417,,,0.244,,,,,,,San Diego Sports Arena,,
+12,,League Average,26.8,,,41,41,0.0,0.0,0.0,96.8,96.8,,119.8,0.368,,0.498,,0.446,,,0.265,,,,,,,,371057.0,2330.0

@@ -1,0 +1,31 @@
+,Team,W,L,W/L%,GB,PS/G,PA/G,SRS,Conference,Seed
+0,Milwaukee Bucks* (1),58,24,0.707,—,116.9,113.3,3.61,East,1
+1,Boston Celtics* (2),57,25,0.695,1.0,117.9,111.4,6.38,East,2
+2,Philadelphia 76ers* (3),54,28,0.659,4.0,115.2,110.9,4.37,East,3
+3,Denver Nuggets* (1),53,29,0.646,—,115.8,112.5,3.04,West,1
+4,Memphis Grizzlies* (2),51,31,0.622,2.0,116.9,113.0,3.6,West,2
+5,Cleveland Cavaliers* (4),51,31,0.622,7.0,112.3,106.9,5.23,East,4
+6,Sacramento Kings* (3),48,34,0.585,5.0,120.7,118.1,2.3,West,3
+7,New York Knicks* (5),47,35,0.573,11.0,116.0,113.1,2.99,East,5
+8,Phoenix Suns* (4),45,37,0.549,8.0,113.6,111.6,2.08,West,4
+9,Brooklyn Nets* (6),45,37,0.549,13.0,113.4,112.5,1.03,East,6
+10,Los Angeles Clippers* (5),44,38,0.537,9.0,113.6,113.1,0.31,West,5
+11,Golden State Warriors* (6),44,38,0.537,9.0,118.9,117.1,1.66,West,6
+12,Miami Heat* (7),44,38,0.537,14.0,109.5,109.8,-0.13,East,7
+13,Los Angeles Lakers* (7),43,39,0.524,10.0,117.2,116.6,0.43,West,7
+14,Minnesota Timberwolves* (8),42,40,0.512,11.0,115.8,115.8,-0.22,West,8
+15,New Orleans Pelicans* (9),42,40,0.512,11.0,114.4,112.5,1.63,West,9
+16,Atlanta Hawks* (8),41,41,0.5,17.0,118.4,118.1,0.32,East,8
+17,Toronto Raptors* (9),41,41,0.5,17.0,112.9,111.4,1.59,East,9
+18,Chicago Bulls* (10),40,42,0.488,18.0,113.1,111.8,1.37,East,10
+19,Oklahoma City Thunder* (10),40,42,0.488,13.0,117.5,116.4,0.96,West,10
+20,Dallas Mavericks (11),38,44,0.463,15.0,114.2,114.1,-0.14,West,11
+21,Utah Jazz (12),37,45,0.451,16.0,117.1,118.0,-1.03,West,12
+22,Indiana Pacers (11),35,47,0.427,23.0,116.3,119.5,-2.91,East,11
+23,Washington Wizards (12),35,47,0.427,23.0,113.2,114.4,-1.06,East,12
+24,Orlando Magic (13),34,48,0.415,24.0,111.4,114.0,-2.39,East,13
+25,Portland Trail Blazers (13),33,49,0.402,20.0,113.4,117.4,-3.96,West,13
+26,Charlotte Hornets (14),27,55,0.329,31.0,111.0,117.2,-5.89,East,14
+27,Houston Rockets (14),22,60,0.268,31.0,110.7,118.6,-7.62,West,14
+28,San Antonio Spurs (15),22,60,0.268,31.0,113.0,123.1,-9.82,West,15
+29,Detroit Pistons (15),17,65,0.207,41.0,110.3,118.5,-7.73,East,15
